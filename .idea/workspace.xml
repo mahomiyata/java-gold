@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="752486ab-cc89-4063-a570-2e13e0eb0c2c" name="Changes" comment="Executors サンプル">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cbap3/ReduceSample.java" afterDir="false" />
+    <list default="true" id="752486ab-cc89-4063-a570-2e13e0eb0c2c" name="Changes" comment="フォルダ名修正">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/NonNullList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap7/NonNullMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ReduceSample">
-    <configuration name="ReduceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cbap3.ReduceSample" />
+  <component name="RunManager" selected="Application.NonNullMain">
+    <configuration name="NonNullMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap7.NonNullMain" />
       <module name="java-gold.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cbap3.*" />
+          <option name="PATTERN" value="chap7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap3.ReduceSample" />
+      <module name="java-gold.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,7 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReduceSample" />
+        <item itemvalue="Application.NonNullMain" />
+        <item itemvalue="Application.chap3.ReduceSample" />
         <item itemvalue="Application.SampleFactory" />
       </list>
     </recent_temporary>
@@ -102,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656751735187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Reduce サンプル">
+      <created>1659023569654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659023569654</updated>
+    </task>
+    <task id="LOCAL-00005" summary="フォルダ名修正">
+      <created>1659023610774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659023610774</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +150,8 @@
     <MESSAGE value="インナークラス &amp; インターフェイスサンプル" />
     <MESSAGE value="ファイル整理" />
     <MESSAGE value="Executors サンプル" />
-    <option name="LAST_COMMIT_MESSAGE" value="Executors サンプル" />
+    <MESSAGE value="Reduce サンプル" />
+    <MESSAGE value="フォルダ名修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="フォルダ名修正" />
   </component>
 </project>
