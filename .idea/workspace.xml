@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="752486ab-cc89-4063-a570-2e13e0eb0c2c" name="Changes" comment="Executors サンプル">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cbap3/ExecutorsSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cbap3/ReduceSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ReduceSample">
+    <configuration name="ReduceSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cbap3.ReduceSample" />
+      <module name="java-gold.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cbap3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SampleFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap1.SampleFactory" />
       <module name="java-gold.main" />
@@ -54,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReduceSample" />
         <item itemvalue="Application.SampleFactory" />
       </list>
     </recent_temporary>
@@ -81,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656751686162</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Executors サンプル">
+      <created>1656751735187</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656751735187</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
